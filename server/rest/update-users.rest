@@ -1,0 +1,7 @@
+POST https://localhost:4400/api/registration/copyRegistrations HTTP/1.1
+content-type: application/json
+
+{
+    "collectionName": "registrations2025",
+    "tag": "sc33"
+}

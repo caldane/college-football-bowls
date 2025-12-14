@@ -1,0 +1,105 @@
+﻿body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+}
+
+.site-header {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: #002147;
+  color: white;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.site-header p {
+  margin: 0.5rem 0 0;
+  opacity: 0.9;
+}
+
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.loading, .error {
+  text-align: center;
+  font-size: 1.3rem;
+  padding: 2rem;
+}
+
+.error {
+  color: #d00;
+}
+
+.game-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.game-card h2 {
+  margin: 0 0 1.5rem;
+  text-align: center;
+  color: #002147;
+}
+
+.matchup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.team {
+  text-align: center;
+  min-width: 180px;
+}
+
+.team img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
+
+.team h3 {
+  margin: 0.8rem 0 0.3rem;
+  font-size: 1.4rem;
+}
+
+.team p {
+  margin: 0.2rem 0;
+  color: #555;
+}
+
+.vs {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #555;
+}
+
+.game-details {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.game-details p {
+  margin: 0.5rem 0;
+}
+
+.final-score {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #c00;
+  margin-top: 1rem;
+}
