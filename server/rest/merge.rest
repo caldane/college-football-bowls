@@ -1,8 +1,0 @@
-PATCH https://localhost:4400/api/guest/merge HTTP/1.1
-content-type: application/json
-
-{
-    "userId": "test-user-1",
-    "guest": "{\"UserId\":\"test-user-1\",\"Preferred Pronouns\":\"she/her\",\"Given Name\":\"Allison Greene\",\"First Name\":\"Daniel\",\"Last Name\":\"Walker\",\"Credited As Name\":\"Dan Walker\",\"Tags\":[\"merge-check\",\"mock-data\",\"test\"]}",
-    "otherUserIds": "[\"test-user-2\"]"
-}

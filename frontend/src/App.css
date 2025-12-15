@@ -1,8 +1,8 @@
 ﻿body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-  background: #f4f4f4;
-  color: #333;
+  background: #333;
+  color: #ccc;
 }
 
 .site-header {

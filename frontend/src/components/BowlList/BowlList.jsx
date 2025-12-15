@@ -1,6 +1,6 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import teams from '../../assets/json/teams.json'
+import React from "react";
+import PropTypes from "prop-types";
+import style from "./bowl-list.module.css";
 
 const BowlList = ({ bowls }) => {
   if (!bowls || bowls.length === 0) {
@@ -8,55 +8,109 @@ const BowlList = ({ bowls }) => {
   }
 
   return (
-    <section className="bowl-list" aria-labelledby="bowl-list-heading">
+    <section className={style["bowl-list"]} aria-labelledby="bowl-list-heading">
       <header>
-        <h1 id="bowl-list-heading">2025–26 College Football Bowl Games</h1>
+        <h1 id="bowl-list-heading">2025-26 College Football Bowl Games</h1>
       </header>
 
       <ol className="bowl-games-list">
-        {bowls.map((bowl) => {
-            const homeTeam = teams.find(team => team.name === bowl.home_team);
-            const awayTeam = teams.find(team => team.name === bowl.away_team);
-            return (
-          <li key={bowl.id} className="bowl-item">
-            <article className="bowl-card">
-              <header>
-                <h2 className="bowl-name">{bowl.notes}</h2>
-              </header>
+        {bowls?.map((bowl) => {
+          const date = new Date(bowl.startDate).toLocaleString("en-US", {
+            timeZone: "America/Chicago", // Forces Central Time
+            weekday: "short", // e.g., "Sat"
+            month: "short", // e.g., "Dec"
+            day: "numeric", // e.g., "13"
+            year: "numeric", // e.g., "2025"
+            hour: "numeric", // e.g., "6:00 PM"
+            minute: "2-digit", // e.g., "30"
+            timeZoneName: "short", // e.g., "CST" or "CDT"
+          });
+          return (
+            <li key={bowl.id} className="bowl-item">
+              <article className="bowl-card">
+                <header>
+                  <h2 className="bowl-name">{bowl.notes}</h2>
+                </header>
 
-              <dl className="bowl-details">
-                <div>
-                  <dt>Date</dt>
-                  <dd>{bowl.startDate}</dd>
-                </div>
-
-                {bowl.venue && (
+                <dl className={style["bowl-details"]}>
                   <div>
-                    <dt>Location</dt>
-                    <dd>{bowl.venue}</dd>
+                    <dt>Date</dt>
+                    <dd>{date}</dd>
                   </div>
-                )}
 
-                {bowl.network && (
-                  <div>
-                    <dt>Network</dt>
-                    <dd>{bowl.network}</dd>
-                  </div>
-                )}
+                  {bowl.venue && (
+                    <div>
+                      <dt>Location</dt>
+                      <dd>{bowl.venue}</dd>
+                    </div>
+                  )}
 
-                {bowl.awayTeam && bowl.homeTeam && (
-                  <div>
-                    <dt>Matchup</dt>
-                    <dd><img src={bowl.awayTeamLogo} alt={`${bowl.awayTeam} logo`} /></dd>
-                    <dd>
-                      <strong>{bowl.awayTeam} {bowl.awayPoints ? `: ${bowl.awayPoints}` : ''}</strong> vs <strong>{bowl.homeTeam} {bowl.homePoints ? `: ${bowl.homePoints}` : ''}</strong>
-                    </dd>
-                  </div>
-                )}
-              </dl>
-            </article>
-          </li>
-        )})}
+                  {bowl.network && (
+                    <div>
+                      <dt>Network</dt>
+                      <dd>{bowl.network}</dd>
+                    </div>
+                  )}
+
+                  {bowl?.line?.length > 0 && (
+                    <div>
+                      <dt>Point Spread</dt>
+                      <dd>
+                        {bowl.line
+                          .map(
+                            (line, idx) =>
+                             (<p key={`${bowl.id}-line-${idx}`}>{line.provider} {line.formattedSpread}</p>)
+                          )
+                          }
+                      </dd>
+                    </div>
+                  )}
+
+                  {bowl.awayTeam && bowl.homeTeam && (
+                    <div className={style.matchup}>
+                      <dt>Matchup</dt>
+                      <dd>
+                          <img
+                            className={style.logo}
+                            src={bowl.away_info.logos[1]}
+                            alt={`${bowl.awayTeam} logo`}
+                          />
+                      </dd>
+                      <dd> at </dd>
+                      <dd>
+                          <img
+                            className={style.logo}
+                            src={bowl.home_info.logos[1]}
+                            alt={`${bowl.homeTeam} logo`}
+                          />
+                      </dd>
+                      <dd>
+                        <strong>
+                          {bowl.awayTeam}{" "}
+                          {bowl.awayPoints ? `: ${bowl.awayPoints}` : ""}
+                        </strong>
+                      </dd>
+                      <dd></dd>{" "}
+                      <dd>
+                        <strong>
+                          {bowl.homeTeam}{" "}
+                          {bowl.homePoints ? `: ${bowl.homePoints}` : ""}
+                        </strong>
+                      </dd>
+                      <dd>
+                        Record: {` ${bowl.away_record.regularSeason.wins}-${bowl.away_record.regularSeason.losses}-${bowl.away_record.regularSeason.ties} `}
+                      </dd>
+                      <dd></dd>
+                      <dd>
+                        Record: {` ${bowl.home_record.regularSeason.wins}-${bowl.home_record.regularSeason.losses}-${bowl.home_record.regularSeason.ties} `}
+                      </dd>
+                    </div>
+                  )}
+                </dl>
+              </article>
+            </li>
+          );
+        })}
       </ol>
     </section>
   );
@@ -66,10 +120,9 @@ BowlList.propTypes = {
   bowls: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired,
-      name: PropTypes.string.isRequired,
-      date: PropTypes.string.isRequired,
-      location: PropTypes.string,
-      time: PropTypes.string,
+      notes: PropTypes.string.isRequired,
+      startDate: PropTypes.string.isRequired,
+      venue: PropTypes.string,
       network: PropTypes.string,
       matchup: PropTypes.shape({
         team1: PropTypes.string,
