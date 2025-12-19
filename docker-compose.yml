@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: cfb-backend
+    environment:
+      - NODE_ENV=production
+      - PORT=5050
+      - AUTH_TOKEN2=8RikJHc4wrfH22xNQ/ZtFAN0HgMmaK9SeEYm2kz3EizxQExcOru7wXcT1Ycj6WL9
+      - CACHE_AGE_LIMIT_MINUTES=30
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:5050/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 20s  # Give it a bit more time to start
+
+  nginx:
+    build: .
+    container_name: cfb-nginx
+    ports:
+      - "5080:80"  # Or "443:443" for HTTPS (add volumes for certs)
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "nginx", "-t"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
