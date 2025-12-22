@@ -1,8 +1,9 @@
 {
-  "date": "2025-12-18T21:49:53.607Z",
+  "date": "2025-12-20T15:03:58.440Z",
   "games": [
     {
       "bowl_name": "Cricket Celebration Bowl",
+      "bowl_points": 1,
       "id": 401778123,
       "season": 2025,
       "week": 1,
@@ -242,42 +243,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2504,
-          "teamName": "Prairie View A&M Panthers"
+          "teamName": "Prairie View A&M Panthers",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2569,
-          "teamName": "South Carolina State Bulldogs"
+          "teamName": "South Carolina State Bulldogs",
+          "points": 1
         },
         {
           "user": "Kayla",
           "teamId": 2504,
-          "teamName": "Prairie View A&M Panthers"
+          "teamName": "Prairie View A&M Panthers",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 2569,
-          "teamName": "South Carolina State Bulldogs"
+          "teamName": "South Carolina State Bulldogs",
+          "points": 1
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2569,
-          "teamName": "South Carolina State Bulldogs"
+          "teamName": "South Carolina State Bulldogs",
+          "points": 1
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 2569,
-          "teamName": "South Carolina State Bulldogs"
+          "teamName": "South Carolina State Bulldogs",
+          "points": 1
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2504,
-          "teamName": "Prairie View A&M Panthers"
+          "teamName": "Prairie View A&M Panthers",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Bucked Up LA Bowl",
+      "bowl_points": 2,
       "id": 401778302,
       "season": 2025,
       "week": 1,
@@ -535,42 +544,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 264,
-          "teamName": "Washington Huskies"
+          "teamName": "Washington Huskies",
+          "points": 2
         },
         {
           "user": "Otto's owner",
           "teamId": 264,
-          "teamName": "Washington Huskies"
+          "teamName": "Washington Huskies",
+          "points": 2
         },
         {
           "user": "Kayla",
           "teamId": 264,
-          "teamName": "Washington Huskies"
+          "teamName": "Washington Huskies",
+          "points": 2
         },
         {
           "user": "Tarin Clark",
           "teamId": 264,
-          "teamName": "Washington Huskies"
+          "teamName": "Washington Huskies",
+          "points": 2
         },
         {
           "user": "Caleb Haldane",
           "teamId": 264,
-          "teamName": "Washington Huskies"
+          "teamName": "Washington Huskies",
+          "points": 2
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 264,
-          "teamName": "Washington Huskies"
+          "teamName": "Washington Huskies",
+          "points": 2
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 264,
-          "teamName": "Washington Huskies"
+          "teamName": "Washington Huskies",
+          "points": 2
         }
       ]
     },
     {
       "bowl_name": "IS4S Salute to Veterans Bowl",
+      "bowl_points": 1,
       "id": 401778303,
       "season": 2025,
       "week": 1,
@@ -818,42 +835,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2653,
-          "teamName": "Troy Trojans"
+          "teamName": "Troy Trojans",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2653,
-          "teamName": "Troy Trojans"
+          "teamName": "Troy Trojans",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 2653,
-          "teamName": "Troy Trojans"
+          "teamName": "Troy Trojans",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 2653,
-          "teamName": "Troy Trojans"
+          "teamName": "Troy Trojans",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2653,
-          "teamName": "Troy Trojans"
+          "teamName": "Troy Trojans",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 55,
-          "teamName": "Jacksonville State Gamecocks"
+          "teamName": "Jacksonville State Gamecocks",
+          "points": 1
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2653,
-          "teamName": "Troy Trojans"
+          "teamName": "Troy Trojans",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "StaffDNA Cure Bowl",
+      "bowl_points": 1,
       "id": 401778304,
       "season": 2025,
       "week": 1,
@@ -1101,42 +1126,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 58,
-          "teamName": "South Florida Bulls"
+          "teamName": "South Florida Bulls",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 295,
-          "teamName": "Old Dominion Monarchs"
+          "teamName": "Old Dominion Monarchs",
+          "points": 1
         },
         {
           "user": "Kayla",
           "teamId": 58,
-          "teamName": "South Florida Bulls"
+          "teamName": "South Florida Bulls",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 58,
-          "teamName": "South Florida Bulls"
+          "teamName": "South Florida Bulls",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 58,
-          "teamName": "South Florida Bulls"
+          "teamName": "South Florida Bulls",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 58,
-          "teamName": "South Florida Bulls"
+          "teamName": "South Florida Bulls",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 58,
-          "teamName": "South Florida Bulls"
+          "teamName": "South Florida Bulls",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "68 Ventures Bowl",
+      "bowl_points": 1,
       "id": 401778305,
       "season": 2025,
       "week": 1,
@@ -1385,49 +1418,57 @@
         {
           "user": "Sarah Moore",
           "teamId": 309,
-          "teamName": "Louisiana Ragin' Cajuns"
+          "teamName": "Louisiana Ragin' Cajuns",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 309,
-          "teamName": "Louisiana Ragin' Cajuns"
+          "teamName": "Louisiana Ragin' Cajuns",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 309,
-          "teamName": "Louisiana Ragin' Cajuns"
+          "teamName": "Louisiana Ragin' Cajuns",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 48,
-          "teamName": "Delaware Fightin' Blue Hens"
+          "teamName": "Delaware Fightin' Blue Hens",
+          "points": 1
         },
         {
           "user": "Caleb Haldane",
           "teamId": 309,
-          "teamName": "Louisiana Ragin' Cajuns"
+          "teamName": "Louisiana Ragin' Cajuns",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 309,
-          "teamName": "Louisiana Ragin' Cajuns"
+          "teamName": "Louisiana Ragin' Cajuns",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 309,
-          "teamName": "Louisiana Ragin' Cajuns"
+          "teamName": "Louisiana Ragin' Cajuns",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Xbox Bowl",
+      "bowl_points": 1,
       "id": 401838053,
       "season": 2025,
       "week": 1,
       "seasonType": "postseason",
       "startDate": "2025-12-19T02:00:00.000Z",
       "startTimeTBD": false,
-      "completed": false,
+      "completed": true,
       "neutralSite": true,
       "conferenceGame": false,
       "attendance": null,
@@ -1437,21 +1478,31 @@
       "homeTeam": "Arkansas State",
       "homeClassification": "fbs",
       "homeConference": "Sun Belt",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
+      "homePoints": 34,
+      "homeLineScores": [
+        14,
+        10,
+        7,
+        3
+      ],
+      "homePostgameWinProbability": 0.5835445523262024,
       "homePregameElo": 1301,
-      "homePostgameElo": null,
+      "homePostgameElo": 1312,
       "awayId": 2623,
       "awayTeam": "Missouri State",
       "awayClassification": "fbs",
       "awayConference": "Conference USA",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
+      "awayPoints": 28,
+      "awayLineScores": [
+        7,
+        0,
+        0,
+        21
+      ],
+      "awayPostgameWinProbability": 0.4164554476737976,
       "awayPregameElo": 1344,
-      "awayPostgameElo": null,
-      "excitementIndex": null,
+      "awayPostgameElo": 1333,
+      "excitementIndex": 4.72087403671044,
       "highlights": "",
       "notes": "Xbox Bowl",
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
@@ -1659,55 +1710,63 @@
           "user": "Sarah Moore",
           "teamId": 2032,
           "teamName": "Arkansas State Red Wolves",
-          "double": false
+          "double": false,
+          "points": 1
         },
         {
           "user": "Otto's owner",
           "teamId": 2032,
           "teamName": "Arkansas State Red Wolves",
-          "double": true
+          "double": true,
+          "points": 2
         },
         {
           "user": "Kayla",
           "teamId": 2623,
           "teamName": "Missouri State Bears",
-          "double": true
+          "double": true,
+          "points": -1
         },
         {
           "user": "Tarin Clark",
           "teamId": 2032,
           "teamName": "Arkansas State Red Wolves",
-          "double": true
+          "double": true,
+          "points": 2
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2623,
           "teamName": "Missouri State Bears",
-          "double": true
+          "double": true,
+          "points": -1
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 2623,
           "teamName": "Missouri State Bears",
-          "double": true
+          "double": true,
+          "points": -1
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2623,
           "teamName": "Missouri State Bears",
-          "double": false
+          "double": false,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Myrtle Beach Bowl",
+      "bowl_points": 1,
       "id": 401778306,
       "season": 2025,
       "week": 1,
       "seasonType": "postseason",
       "startDate": "2025-12-19T16:00:00.000Z",
       "startTimeTBD": false,
-      "completed": false,
+      "completed": true,
       "neutralSite": true,
       "conferenceGame": false,
       "attendance": null,
@@ -1717,21 +1776,31 @@
       "homeTeam": "Western Michigan",
       "homeClassification": "fbs",
       "homeConference": "Mid-American",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
+      "homePoints": 41,
+      "homeLineScores": [
+        27,
+        7,
+        7,
+        0
+      ],
+      "homePostgameWinProbability": 0.986406683921814,
       "homePregameElo": 1442,
-      "homePostgameElo": null,
+      "homePostgameElo": 1540,
       "awayId": 338,
       "awayTeam": "Kennesaw State",
       "awayClassification": "fbs",
       "awayConference": "Conference USA",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
+      "awayPoints": 6,
+      "awayLineScores": [
+        0,
+        0,
+        6,
+        0
+      ],
+      "awayPostgameWinProbability": 0.013593316078186035,
       "awayPregameElo": 1414,
-      "awayPostgameElo": null,
-      "excitementIndex": null,
+      "awayPostgameElo": 1316,
+      "excitementIndex": 2.805991700297709,
       "highlights": "",
       "notes": "Myrtle Beach Bowl",
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
@@ -1939,49 +2008,57 @@
         {
           "user": "Sarah Moore",
           "teamId": 2711,
-          "teamName": "Western Michigan Broncos"
+          "teamName": "Western Michigan Broncos",
+          "points": 1
         },
         {
           "user": "Otto's owner",
           "teamId": 2711,
-          "teamName": "Western Michigan Broncos"
+          "teamName": "Western Michigan Broncos",
+          "points": 1
         },
         {
           "user": "Kayla",
           "teamId": 338,
-          "teamName": "Kennesaw State Owls"
+          "teamName": "Kennesaw State Owls",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 2711,
-          "teamName": "Western Michigan Broncos"
+          "teamName": "Western Michigan Broncos",
+          "points": 1
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2711,
-          "teamName": "Western Michigan Broncos"
+          "teamName": "Western Michigan Broncos",
+          "points": 1
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 338,
-          "teamName": "Kennesaw State Owls"
+          "teamName": "Kennesaw State Owls",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2711,
-          "teamName": "Western Michigan Broncos"
+          "teamName": "Western Michigan Broncos",
+          "points": 1
         }
       ]
     },
     {
       "bowl_name": "Union Home Mortgage Gasparilla Bowl",
+      "bowl_points": 2,
       "id": 401778307,
       "season": 2025,
       "week": 1,
       "seasonType": "postseason",
       "startDate": "2025-12-19T19:30:00.000Z",
       "startTimeTBD": false,
-      "completed": false,
+      "completed": true,
       "neutralSite": true,
       "conferenceGame": false,
       "attendance": null,
@@ -1991,21 +2068,31 @@
       "homeTeam": "NC State",
       "homeClassification": "fbs",
       "homeConference": "ACC",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
+      "homePoints": 31,
+      "homeLineScores": [
+        14,
+        17,
+        0,
+        0
+      ],
+      "homePostgameWinProbability": 0.99190753698349,
       "homePregameElo": 1525,
-      "homePostgameElo": null,
+      "homePostgameElo": 1593,
       "awayId": 235,
       "awayTeam": "Memphis",
       "awayClassification": "fbs",
       "awayConference": "American Athletic",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
+      "awayPoints": 7,
+      "awayLineScores": [
+        0,
+        7,
+        0,
+        0
+      ],
+      "awayPostgameWinProbability": 0.00809246301651001,
       "awayPregameElo": 1620,
-      "awayPostgameElo": null,
-      "excitementIndex": null,
+      "awayPostgameElo": 1552,
+      "excitementIndex": 3.391001742033934,
       "highlights": "",
       "notes": "Union Home Mortgage Gasparilla Bowl",
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
@@ -2213,49 +2300,57 @@
         {
           "user": "Sarah Moore",
           "teamId": 152,
-          "teamName": "NC State Wolfpack"
+          "teamName": "NC State Wolfpack",
+          "points": 2
         },
         {
           "user": "Otto's owner",
           "teamId": 152,
-          "teamName": "NC State Wolfpack"
+          "teamName": "NC State Wolfpack",
+          "points": 2
         },
         {
           "user": "Kayla",
           "teamId": 152,
-          "teamName": "NC State Wolfpack"
+          "teamName": "NC State Wolfpack",
+          "points": 2
         },
         {
           "user": "Tarin Clark",
           "teamId": 152,
-          "teamName": "NC State Wolfpack"
+          "teamName": "NC State Wolfpack",
+          "points": 2
         },
         {
           "user": "Caleb Haldane",
           "teamId": 235,
-          "teamName": "Memphis Tigers"
+          "teamName": "Memphis Tigers",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 152,
-          "teamName": "NC State Wolfpack"
+          "teamName": "NC State Wolfpack",
+          "points": 2
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 152,
-          "teamName": "NC State Wolfpack"
+          "teamName": "NC State Wolfpack",
+          "points": 2
         }
       ]
     },
     {
       "bowl_name": "College Football Playoff First Round Game",
+      "bowl_points": 6,
       "id": 401779840,
       "season": 2025,
       "week": 1,
       "seasonType": "postseason",
       "startDate": "2025-12-20T01:00:00.000Z",
       "startTimeTBD": false,
-      "completed": false,
+      "completed": true,
       "neutralSite": false,
       "conferenceGame": true,
       "attendance": null,
@@ -2265,23 +2360,35 @@
       "homeTeam": "Oklahoma",
       "homeClassification": "fbs",
       "homeConference": "SEC",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
+      "homePoints": 24,
+      "homeLineScores": [
+        10,
+        7,
+        0,
+        7
+      ],
+      "homePostgameWinProbability": 0.26518017053604126,
       "homePregameElo": 1823,
-      "homePostgameElo": null,
+      "homePostgameElo": 1803,
       "awayId": 333,
       "awayTeam": "Alabama",
       "awayClassification": "fbs",
       "awayConference": "SEC",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
+      "awayPoints": 34,
+      "awayLineScores": [
+        0,
+        17,
+        10,
+        7
+      ],
+      "awayPostgameWinProbability": 0.7348198294639587,
       "awayPregameElo": 1917,
-      "awayPostgameElo": null,
-      "excitementIndex": null,
+      "awayPostgameElo": 1937,
+      "excitementIndex": 5.374291203145211,
       "highlights": "",
       "notes": "College Football Playoff First Round Game",
+      "home_ranking": 8,
+      "away_ranking": 9,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
       "home_conference": "SEC",
@@ -2487,55 +2594,63 @@
           "user": "Sarah Moore",
           "teamId": 201,
           "teamName": "#8. Oklahoma Sooners",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 201,
           "teamName": "#8. Oklahoma Sooners",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 201,
           "teamName": "#8. Oklahoma Sooners",
-          "double": true
+          "double": true,
+          "points": -6
         },
         {
           "user": "Tarin Clark",
           "teamId": 333,
           "teamName": "#9. Alabama Crimson Tide",
-          "double": false
+          "double": false,
+          "points": 6
         },
         {
           "user": "Caleb Haldane",
           "teamId": 333,
           "teamName": "#9. Alabama Crimson Tide",
-          "double": true
+          "double": true,
+          "points": 12
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 201,
           "teamName": "#8. Oklahoma Sooners",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 201,
           "teamName": "#8. Oklahoma Sooners",
-          "double": true
+          "double": true,
+          "points": -6
         }
       ]
     },
     {
       "bowl_name": "College Football Playoff First Round Game",
+      "bowl_points": 6,
       "id": 401779841,
       "season": 2025,
       "week": 1,
       "seasonType": "postseason",
       "startDate": "2025-12-20T17:00:00.000Z",
       "startTimeTBD": false,
-      "completed": false,
+      "completed": true,
       "neutralSite": false,
       "conferenceGame": false,
       "attendance": null,
@@ -2545,23 +2660,35 @@
       "homeTeam": "Texas A&M",
       "homeClassification": "fbs",
       "homeConference": "SEC",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
+      "homePoints": 3,
+      "homeLineScores": [
+        0,
+        0,
+        0,
+        3
+      ],
+      "homePostgameWinProbability": 0.20839999616146088,
       "homePregameElo": 1878,
-      "homePostgameElo": null,
+      "homePostgameElo": 1866,
       "awayId": 2390,
       "awayTeam": "Miami",
       "awayClassification": "fbs",
       "awayConference": "ACC",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
+      "awayPoints": 10,
+      "awayLineScores": [
+        0,
+        0,
+        3,
+        7
+      ],
+      "awayPostgameWinProbability": 0.7916000038385391,
       "awayPregameElo": 1967,
-      "awayPostgameElo": null,
-      "excitementIndex": null,
+      "awayPostgameElo": 1979,
+      "excitementIndex": 5.806437008398323,
       "highlights": "",
       "notes": "College Football Playoff First Round Game",
+      "home_ranking": 7,
+      "away_ranking": 10,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
       "home_conference": "SEC",
@@ -2768,48 +2895,56 @@
           "user": "Sarah Moore",
           "teamId": 245,
           "teamName": "#7. Texas A&M Aggies",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2390,
           "teamName": "#10. Miami Hurricanes",
-          "double": false
+          "double": false,
+          "points": 6
         },
         {
           "user": "Kayla",
           "teamId": 245,
           "teamName": "#7. Texas A&M Aggies",
-          "double": true
+          "double": true,
+          "points": -6
         },
         {
           "user": "Tarin Clark",
           "teamId": 2390,
           "teamName": "#10. Miami Hurricanes",
-          "double": false
+          "double": false,
+          "points": 6
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2390,
           "teamName": "#10. Miami Hurricanes",
-          "double": false
+          "double": false,
+          "points": 6
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 245,
           "teamName": "#7. Texas A&M Aggies",
-          "double": true
+          "double": true,
+          "points": -6
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 245,
           "teamName": "#7. Texas A&M Aggies",
-          "double": true
+          "double": true,
+          "points": -6
         }
       ]
     },
     {
       "bowl_name": "Division III Championship - Semifinal",
+      "bowl_points": 16,
       "id": 401840097,
       "season": 2025,
       "week": 1,
@@ -3025,43 +3160,51 @@
       "picks": [
         {
           "user": "Sarah Moore",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Otto's owner",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Kayla",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "College Football Playoff First Round Game",
+      "bowl_points": 6,
       "id": 401779842,
       "season": 2025,
       "week": 1,
       "seasonType": "postseason",
       "startDate": "2025-12-20T20:30:00.000Z",
       "startTimeTBD": false,
-      "completed": false,
+      "completed": true,
       "neutralSite": false,
       "conferenceGame": false,
       "attendance": null,
@@ -3071,23 +3214,35 @@
       "homeTeam": "Ole Miss",
       "homeClassification": "fbs",
       "homeConference": "SEC",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
+      "homePoints": 41,
+      "homeLineScores": [
+        14,
+        3,
+        10,
+        14
+      ],
+      "homePostgameWinProbability": 0.9860715866088867,
       "homePregameElo": 1960,
-      "homePostgameElo": null,
+      "homePostgameElo": 2018,
       "awayId": 2655,
       "awayTeam": "Tulane",
       "awayClassification": "fbs",
       "awayConference": "American Athletic",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
+      "awayPoints": 10,
+      "awayLineScores": [
+        0,
+        3,
+        0,
+        7
+      ],
+      "awayPostgameWinProbability": 0.013928413391113281,
       "awayPregameElo": 1627,
-      "awayPostgameElo": null,
-      "excitementIndex": null,
+      "awayPostgameElo": 1569,
+      "excitementIndex": 2.962733785379966,
       "highlights": "",
       "notes": "College Football Playoff First Round Game",
+      "home_ranking": 6,
+      "away_ranking": 20,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
       "home_conference": "SEC",
@@ -3292,42 +3447,313 @@
         {
           "user": "Sarah Moore",
           "teamId": 145,
-          "teamName": "#6. Ole Miss Rebels"
+          "teamName": "#6. Ole Miss Rebels",
+          "points": 6
         },
         {
           "user": "Otto's owner",
           "teamId": 145,
-          "teamName": "#6. Ole Miss Rebels"
+          "teamName": "#6. Ole Miss Rebels",
+          "points": 6
         },
         {
           "user": "Kayla",
           "teamId": 145,
-          "teamName": "#6. Ole Miss Rebels"
+          "teamName": "#6. Ole Miss Rebels",
+          "points": 6
         },
         {
           "user": "Tarin Clark",
           "teamId": 145,
-          "teamName": "#6. Ole Miss Rebels"
+          "teamName": "#6. Ole Miss Rebels",
+          "points": 6
         },
         {
           "user": "Caleb Haldane",
           "teamId": 145,
-          "teamName": "#6. Ole Miss Rebels"
+          "teamName": "#6. Ole Miss Rebels",
+          "points": 6
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 145,
-          "teamName": "#6. Ole Miss Rebels"
+          "teamName": "#6. Ole Miss Rebels",
+          "points": 6
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 145,
-          "teamName": "#6. Ole Miss Rebels"
+          "teamName": "#6. Ole Miss Rebels",
+          "points": 6
+        }
+      ]
+    },
+    {
+      "bowl_name": "FCS Championship - Semifinals",
+      "bowl_points": 16,
+      "id": 401833989,
+      "season": 2025,
+      "week": 1,
+      "seasonType": "postseason",
+      "startDate": "2025-12-20T21:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": true,
+      "neutralSite": false,
+      "conferenceGame": true,
+      "attendance": null,
+      "venueId": 3643,
+      "venue": "Bobcat Stadium",
+      "homeId": 147,
+      "homeTeam": "Montana State",
+      "homeClassification": "fcs",
+      "homeConference": "Big Sky",
+      "homePoints": 48,
+      "homeLineScores": [
+        13,
+        7,
+        7,
+        21
+      ],
+      "homePostgameWinProbability": 1,
+      "homePregameElo": null,
+      "homePostgameElo": null,
+      "awayId": 149,
+      "awayTeam": "Montana",
+      "awayClassification": "fcs",
+      "awayConference": "Big Sky",
+      "awayPoints": 23,
+      "awayLineScores": [
+        0,
+        16,
+        7,
+        0
+      ],
+      "awayPostgameWinProbability": 0,
+      "awayPregameElo": null,
+      "awayPostgameElo": null,
+      "excitementIndex": 4.979878262373549,
+      "highlights": "",
+      "notes": "FCS Championship - Semifinals",
+      "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+      "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+      "home_conference": "Big Sky",
+      "away_conference": "Big Sky",
+      "home_info": {
+        "id": 147,
+        "school": "Montana State",
+        "mascot": "Bobcats",
+        "abbreviation": "MTST",
+        "alternateNames": [
+          "MTST",
+          "Montana St"
+        ],
+        "conference": "Big Sky",
+        "division": null,
+        "classification": "fcs",
+        "color": "#00205c",
+        "alternateColor": "#bc955c",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/147.png"
+        ],
+        "twitter": "@MSUBobcatsFB",
+        "location": {
+          "id": 3643,
+          "name": "Bobcat Stadium",
+          "city": "Bozeman",
+          "state": "MT",
+          "zip": "59718",
+          "countryCode": "US",
+          "timezone": "America/Denver",
+          "latitude": 45.659048,
+          "longitude": -111.049547,
+          "elevation": "1507.508667",
+          "capacity": 17000,
+          "constructionYear": 1973,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "away_info": {
+        "id": 149,
+        "school": "Montana",
+        "mascot": "Grizzlies",
+        "abbreviation": "MONT",
+        "alternateNames": [
+          "MONT",
+          "Montana"
+        ],
+        "conference": "Big Sky",
+        "division": null,
+        "classification": "fcs",
+        "color": "#751D4A",
+        "alternateColor": "#666666",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/149.png"
+        ],
+        "twitter": "@MontanaGrizFB",
+        "location": {
+          "id": 3987,
+          "name": "Washington-Grizzly Stadium",
+          "city": "Missoula",
+          "state": "MT",
+          "zip": "59812",
+          "countryCode": "US",
+          "timezone": "America/Denver",
+          "latitude": 46.8638753,
+          "longitude": -113.9815042,
+          "elevation": "970.345459",
+          "capacity": 25217,
+          "constructionYear": 1986,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "home_record": {
+        "year": 2025,
+        "teamId": 147,
+        "team": "Montana State",
+        "classification": "fcs",
+        "conference": "Big Sky",
+        "division": "",
+        "expectedWins": 11.535665404051542,
+        "total": {
+          "games": 14,
+          "wins": 12,
+          "losses": 2,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 8,
+          "wins": 8,
+          "losses": 0,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 9,
+          "wins": 8,
+          "losses": 1,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 5,
+          "wins": 4,
+          "losses": 1,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 14,
+          "wins": 12,
+          "losses": 2,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "away_record": {
+        "year": 2025,
+        "teamId": 149,
+        "team": "Montana",
+        "classification": "fcs",
+        "conference": "Big Sky",
+        "division": "",
+        "expectedWins": 10.818540336564183,
+        "total": {
+          "games": 14,
+          "wins": 13,
+          "losses": 1,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 8,
+          "wins": 7,
+          "losses": 1,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 10,
+          "wins": 9,
+          "losses": 1,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 4,
+          "wins": 4,
+          "losses": 0,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 14,
+          "wins": 13,
+          "losses": 1,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "line": null,
+      "picks": [
+        {
+          "user": "Sarah Moore",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Otto's owner",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Kayla",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Tarin Clark",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Caleb Haldane",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Andrew Swiglo",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Joshua M. Trope",
+          "teamId": null,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Division II Championship",
+      "bowl_points": 1,
       "id": 401840095,
       "season": 2025,
       "week": 1,
@@ -3543,281 +3969,44 @@
       "picks": [
         {
           "user": "Sarah Moore",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Otto's owner",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Kayla",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
-          "teamId": null
-        }
-      ]
-    },
-    {
-      "bowl_name": "FCS Championship - Semifinals",
-      "id": 401833989,
-      "season": 2025,
-      "week": 1,
-      "seasonType": "postseason",
-      "startDate": "2025-12-20T21:00:00.000Z",
-      "startTimeTBD": false,
-      "completed": false,
-      "neutralSite": false,
-      "conferenceGame": true,
-      "attendance": null,
-      "venueId": 3643,
-      "venue": "Bobcat Stadium",
-      "homeId": 147,
-      "homeTeam": "Montana State",
-      "homeClassification": "fcs",
-      "homeConference": "Big Sky",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
-      "homePregameElo": null,
-      "homePostgameElo": null,
-      "awayId": 149,
-      "awayTeam": "Montana",
-      "awayClassification": "fcs",
-      "awayConference": "Big Sky",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
-      "awayPregameElo": null,
-      "awayPostgameElo": null,
-      "excitementIndex": null,
-      "highlights": "",
-      "notes": "FCS Championship - Semifinals",
-      "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
-      "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-      "home_conference": "Big Sky",
-      "away_conference": "Big Sky",
-      "home_info": {
-        "id": 147,
-        "school": "Montana State",
-        "mascot": "Bobcats",
-        "abbreviation": "MTST",
-        "alternateNames": [
-          "MTST",
-          "Montana St"
-        ],
-        "conference": "Big Sky",
-        "division": null,
-        "classification": "fcs",
-        "color": "#00205c",
-        "alternateColor": "#bc955c",
-        "logos": [
-          "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
-          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/147.png"
-        ],
-        "twitter": "@MSUBobcatsFB",
-        "location": {
-          "id": 3643,
-          "name": "Bobcat Stadium",
-          "city": "Bozeman",
-          "state": "MT",
-          "zip": "59718",
-          "countryCode": "US",
-          "timezone": "America/Denver",
-          "latitude": 45.659048,
-          "longitude": -111.049547,
-          "elevation": "1507.508667",
-          "capacity": 17000,
-          "constructionYear": 1973,
-          "grass": false,
-          "dome": false
-        }
-      },
-      "away_info": {
-        "id": 149,
-        "school": "Montana",
-        "mascot": "Grizzlies",
-        "abbreviation": "MONT",
-        "alternateNames": [
-          "MONT",
-          "Montana"
-        ],
-        "conference": "Big Sky",
-        "division": null,
-        "classification": "fcs",
-        "color": "#751D4A",
-        "alternateColor": "#666666",
-        "logos": [
-          "http://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/149.png"
-        ],
-        "twitter": "@MontanaGrizFB",
-        "location": {
-          "id": 3987,
-          "name": "Washington-Grizzly Stadium",
-          "city": "Missoula",
-          "state": "MT",
-          "zip": "59812",
-          "countryCode": "US",
-          "timezone": "America/Denver",
-          "latitude": 46.8638753,
-          "longitude": -113.9815042,
-          "elevation": "970.345459",
-          "capacity": 25217,
-          "constructionYear": 1986,
-          "grass": false,
-          "dome": false
-        }
-      },
-      "home_record": {
-        "year": 2025,
-        "teamId": 147,
-        "team": "Montana State",
-        "classification": "fcs",
-        "conference": "Big Sky",
-        "division": "",
-        "expectedWins": 11.535665404051542,
-        "total": {
-          "games": 14,
-          "wins": 12,
-          "losses": 2,
-          "ties": 0
-        },
-        "conferenceGames": {
-          "games": 8,
-          "wins": 8,
-          "losses": 0,
-          "ties": 0
-        },
-        "homeGames": {
-          "games": 9,
-          "wins": 8,
-          "losses": 1,
-          "ties": 0
-        },
-        "awayGames": {
-          "games": 5,
-          "wins": 4,
-          "losses": 1,
-          "ties": 0
-        },
-        "neutralSiteGames": {
-          "games": 0,
-          "wins": 0,
-          "losses": 0,
-          "ties": 0
-        },
-        "regularSeason": {
-          "games": 14,
-          "wins": 12,
-          "losses": 2,
-          "ties": 0
-        },
-        "postseason": {
-          "games": 0,
-          "wins": 0,
-          "losses": 0,
-          "ties": 0
-        }
-      },
-      "away_record": {
-        "year": 2025,
-        "teamId": 149,
-        "team": "Montana",
-        "classification": "fcs",
-        "conference": "Big Sky",
-        "division": "",
-        "expectedWins": 10.818540336564183,
-        "total": {
-          "games": 14,
-          "wins": 13,
-          "losses": 1,
-          "ties": 0
-        },
-        "conferenceGames": {
-          "games": 8,
-          "wins": 7,
-          "losses": 1,
-          "ties": 0
-        },
-        "homeGames": {
-          "games": 10,
-          "wins": 9,
-          "losses": 1,
-          "ties": 0
-        },
-        "awayGames": {
-          "games": 4,
-          "wins": 4,
-          "losses": 0,
-          "ties": 0
-        },
-        "neutralSiteGames": {
-          "games": 0,
-          "wins": 0,
-          "losses": 0,
-          "ties": 0
-        },
-        "regularSeason": {
-          "games": 14,
-          "wins": 13,
-          "losses": 1,
-          "ties": 0
-        },
-        "postseason": {
-          "games": 0,
-          "wins": 0,
-          "losses": 0,
-          "ties": 0
-        }
-      },
-      "line": null,
-      "picks": [
-        {
-          "user": "Sarah Moore",
-          "teamId": null
-        },
-        {
-          "user": "Otto's owner",
-          "teamId": null
-        },
-        {
-          "user": "Kayla",
-          "teamId": null
-        },
-        {
-          "user": "Tarin Clark",
-          "teamId": null
-        },
-        {
-          "user": "Caleb Haldane",
-          "teamId": null
-        },
-        {
-          "user": "Andrew Swiglo",
-          "teamId": null
-        },
-        {
-          "user": "Joshua M. Trope",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Division III Championship - Semifinal",
+      "bowl_points": 16,
       "id": 401840096,
       "season": 2025,
       "week": 1,
@@ -4033,43 +4222,51 @@
       "picks": [
         {
           "user": "Sarah Moore",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Otto's owner",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Kayla",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "FCS Championship - Semifinals",
+      "bowl_points": 16,
       "id": 401833990,
       "season": 2025,
       "week": 1,
       "seasonType": "postseason",
       "startDate": "2025-12-21T00:30:00.000Z",
       "startTimeTBD": false,
-      "completed": false,
+      "completed": true,
       "neutralSite": false,
       "conferenceGame": false,
       "attendance": null,
@@ -4079,21 +4276,31 @@
       "homeTeam": "Villanova",
       "homeClassification": "fcs",
       "homeConference": "CAA",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
+      "homePoints": 14,
+      "homeLineScores": [
+        0,
+        6,
+        0,
+        8
+      ],
+      "homePostgameWinProbability": 0.07079213112592697,
       "homePregameElo": null,
       "homePostgameElo": null,
       "awayId": 2287,
       "awayTeam": "Illinois State",
       "awayClassification": "fcs",
       "awayConference": "MVFC",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
+      "awayPoints": 30,
+      "awayLineScores": [
+        7,
+        14,
+        6,
+        3
+      ],
+      "awayPostgameWinProbability": 0.929207868874073,
       "awayPregameElo": null,
       "awayPostgameElo": null,
-      "excitementIndex": null,
+      "excitementIndex": 3.6114115539234124,
       "highlights": "",
       "notes": "FCS Championship - Semifinals",
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
@@ -4278,43 +4485,51 @@
       "picks": [
         {
           "user": "Sarah Moore",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Otto's owner",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Kayla",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
-          "teamId": null
+          "teamId": null,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "College Football Playoff First Round Game",
+      "bowl_points": 6,
       "id": 401779843,
       "season": 2025,
       "week": 1,
       "seasonType": "postseason",
       "startDate": "2025-12-21T00:30:00.000Z",
       "startTimeTBD": false,
-      "completed": false,
+      "completed": true,
       "neutralSite": false,
       "conferenceGame": false,
       "attendance": null,
@@ -4324,23 +4539,35 @@
       "homeTeam": "Oregon",
       "homeClassification": "fbs",
       "homeConference": "Big Ten",
-      "homePoints": null,
-      "homeLineScores": null,
-      "homePostgameWinProbability": null,
+      "homePoints": 51,
+      "homeLineScores": [
+        13,
+        21,
+        14,
+        3
+      ],
+      "homePostgameWinProbability": 1,
       "homePregameElo": 2087,
-      "homePostgameElo": null,
+      "homePostgameElo": 2114,
       "awayId": 256,
       "awayTeam": "James Madison",
       "awayClassification": "fbs",
       "awayConference": "Sun Belt",
-      "awayPoints": null,
-      "awayLineScores": null,
-      "awayPostgameWinProbability": null,
+      "awayPoints": 34,
+      "awayLineScores": [
+        3,
+        3,
+        14,
+        14
+      ],
+      "awayPostgameWinProbability": 0,
       "awayPregameElo": 1927,
-      "awayPostgameElo": null,
-      "excitementIndex": null,
+      "awayPostgameElo": 1900,
+      "excitementIndex": 3.277116157826675,
       "highlights": "",
       "notes": "College Football Playoff First Round Game",
+      "home_ranking": 5,
+      "away_ranking": 24,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
       "home_conference": "Big Ten",
@@ -4545,42 +4772,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2483,
-          "teamName": "#5. Oregon Ducks"
+          "teamName": "#5. Oregon Ducks",
+          "points": 6
         },
         {
           "user": "Otto's owner",
           "teamId": 2483,
-          "teamName": "#5. Oregon Ducks"
+          "teamName": "#5. Oregon Ducks",
+          "points": 6
         },
         {
           "user": "Kayla",
           "teamId": 2483,
-          "teamName": "#5. Oregon Ducks"
+          "teamName": "#5. Oregon Ducks",
+          "points": 6
         },
         {
           "user": "Tarin Clark",
           "teamId": 2483,
-          "teamName": "#5. Oregon Ducks"
+          "teamName": "#5. Oregon Ducks",
+          "points": 6
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2483,
-          "teamName": "#5. Oregon Ducks"
+          "teamName": "#5. Oregon Ducks",
+          "points": 6
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 2483,
-          "teamName": "#5. Oregon Ducks"
+          "teamName": "#5. Oregon Ducks",
+          "points": 6
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2483,
-          "teamName": "#5. Oregon Ducks"
+          "teamName": "#5. Oregon Ducks",
+          "points": 6
         }
       ]
     },
     {
       "bowl_name": "Famous Idaho Potato Bowl",
+      "bowl_points": 1,
       "id": 401778308,
       "season": 2025,
       "week": 1,
@@ -4818,42 +5053,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 328,
-          "teamName": "Utah State Aggies"
+          "teamName": "Utah State Aggies",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 328,
-          "teamName": "Utah State Aggies"
+          "teamName": "Utah State Aggies",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 328,
-          "teamName": "Utah State Aggies"
+          "teamName": "Utah State Aggies",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 328,
-          "teamName": "Utah State Aggies"
+          "teamName": "Utah State Aggies",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 328,
-          "teamName": "Utah State Aggies"
+          "teamName": "Utah State Aggies",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 265,
-          "teamName": "Washington State Cougars"
+          "teamName": "Washington State Cougars",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 265,
-          "teamName": "Washington State Cougars"
+          "teamName": "Washington State Cougars",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Bush's Boca Raton Bowl",
+      "bowl_points": 2,
       "id": 401778309,
       "season": 2025,
       "week": 1,
@@ -5091,42 +5334,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 97,
-          "teamName": "Louisville Cardinals"
+          "teamName": "Louisville Cardinals",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 97,
-          "teamName": "Louisville Cardinals"
+          "teamName": "Louisville Cardinals",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 97,
-          "teamName": "Louisville Cardinals"
+          "teamName": "Louisville Cardinals",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 97,
-          "teamName": "Louisville Cardinals"
+          "teamName": "Louisville Cardinals",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 97,
-          "teamName": "Louisville Cardinals"
+          "teamName": "Louisville Cardinals",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 97,
-          "teamName": "Louisville Cardinals"
+          "teamName": "Louisville Cardinals",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 97,
-          "teamName": "Louisville Cardinals"
+          "teamName": "Louisville Cardinals",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "New Orleans Bowl",
+      "bowl_points": 1,
       "id": 401778310,
       "season": 2025,
       "week": 1,
@@ -5365,42 +5616,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 98,
-          "teamName": "Western Kentucky Hilltoppers"
+          "teamName": "Western Kentucky Hilltoppers",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 98,
-          "teamName": "Western Kentucky Hilltoppers"
+          "teamName": "Western Kentucky Hilltoppers",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 98,
-          "teamName": "Western Kentucky Hilltoppers"
+          "teamName": "Western Kentucky Hilltoppers",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 98,
-          "teamName": "Western Kentucky Hilltoppers"
+          "teamName": "Western Kentucky Hilltoppers",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2572,
-          "teamName": "Southern Miss Golden Eagles"
+          "teamName": "Southern Miss Golden Eagles",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 2572,
-          "teamName": "Southern Miss Golden Eagles"
+          "teamName": "Southern Miss Golden Eagles",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 98,
-          "teamName": "Western Kentucky Hilltoppers"
+          "teamName": "Western Kentucky Hilltoppers",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Scooter's Coffee Frisco Bowl",
+      "bowl_points": 1,
       "id": 401778311,
       "season": 2025,
       "week": 1,
@@ -5639,42 +5898,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2439,
-          "teamName": "UNLV Rebels"
+          "teamName": "UNLV Rebels",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2439,
-          "teamName": "UNLV Rebels"
+          "teamName": "UNLV Rebels",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 2439,
-          "teamName": "UNLV Rebels"
+          "teamName": "UNLV Rebels",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 2439,
-          "teamName": "UNLV Rebels"
+          "teamName": "UNLV Rebels",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 195,
-          "teamName": "Ohio Bobcats"
+          "teamName": "Ohio Bobcats",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 195,
-          "teamName": "Ohio Bobcats"
+          "teamName": "Ohio Bobcats",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2439,
-          "teamName": "UNLV Rebels"
+          "teamName": "UNLV Rebels",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Sheraton Hawaiʻi Bowl",
+      "bowl_points": 2,
       "id": 401778312,
       "season": 2025,
       "week": 1,
@@ -5912,42 +6179,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 25,
-          "teamName": "California Golden Bears"
+          "teamName": "California Golden Bears",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 25,
-          "teamName": "California Golden Bears"
+          "teamName": "California Golden Bears",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 62,
-          "teamName": "Hawai'i Rainbow Warriors"
+          "teamName": "Hawai'i Rainbow Warriors",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 25,
-          "teamName": "California Golden Bears"
+          "teamName": "California Golden Bears",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 62,
-          "teamName": "Hawai'i Rainbow Warriors"
+          "teamName": "Hawai'i Rainbow Warriors",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 25,
-          "teamName": "California Golden Bears"
+          "teamName": "California Golden Bears",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 25,
-          "teamName": "California Golden Bears"
+          "teamName": "California Golden Bears",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "GameAbove Sports Bowl",
+      "bowl_points": 2,
       "id": 401778313,
       "season": 2025,
       "week": 1,
@@ -6185,42 +6460,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 77,
-          "teamName": "Northwestern Wildcats"
+          "teamName": "Northwestern Wildcats",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 77,
-          "teamName": "Northwestern Wildcats"
+          "teamName": "Northwestern Wildcats",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 77,
-          "teamName": "Northwestern Wildcats"
+          "teamName": "Northwestern Wildcats",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 77,
-          "teamName": "Northwestern Wildcats"
+          "teamName": "Northwestern Wildcats",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 77,
-          "teamName": "Northwestern Wildcats"
+          "teamName": "Northwestern Wildcats",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 77,
-          "teamName": "Northwestern Wildcats"
+          "teamName": "Northwestern Wildcats",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 77,
-          "teamName": "Northwestern Wildcats"
+          "teamName": "Northwestern Wildcats",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Rate Bowl",
+      "bowl_points": 2,
       "id": 401778314,
       "season": 2025,
       "week": 1,
@@ -6458,42 +6741,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 135,
-          "teamName": "Minnesota Golden Gophers"
+          "teamName": "Minnesota Golden Gophers",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 135,
-          "teamName": "Minnesota Golden Gophers"
+          "teamName": "Minnesota Golden Gophers",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 135,
-          "teamName": "Minnesota Golden Gophers"
+          "teamName": "Minnesota Golden Gophers",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 135,
-          "teamName": "Minnesota Golden Gophers"
+          "teamName": "Minnesota Golden Gophers",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 135,
-          "teamName": "Minnesota Golden Gophers"
+          "teamName": "Minnesota Golden Gophers",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 135,
-          "teamName": "Minnesota Golden Gophers"
+          "teamName": "Minnesota Golden Gophers",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 135,
-          "teamName": "Minnesota Golden Gophers"
+          "teamName": "Minnesota Golden Gophers",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "SERVPRO First Responder Bowl",
+      "bowl_points": 1,
       "id": 401778315,
       "season": 2025,
       "week": 1,
@@ -6733,42 +7024,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2636,
-          "teamName": "UTSA Roadrunners"
+          "teamName": "UTSA Roadrunners",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2636,
-          "teamName": "UTSA Roadrunners"
+          "teamName": "UTSA Roadrunners",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 2636,
-          "teamName": "UTSA Roadrunners"
+          "teamName": "UTSA Roadrunners",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 2636,
-          "teamName": "UTSA Roadrunners"
+          "teamName": "UTSA Roadrunners",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2636,
-          "teamName": "UTSA Roadrunners"
+          "teamName": "UTSA Roadrunners",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 2636,
-          "teamName": "UTSA Roadrunners"
+          "teamName": "UTSA Roadrunners",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2636,
-          "teamName": "UTSA Roadrunners"
+          "teamName": "UTSA Roadrunners",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Go Bowling Military Bowl",
+      "bowl_points": 2,
       "id": 401778316,
       "season": 2025,
       "week": 1,
@@ -7007,42 +7306,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 221,
-          "teamName": "Pittsburgh Panthers"
+          "teamName": "Pittsburgh Panthers",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 221,
-          "teamName": "Pittsburgh Panthers"
+          "teamName": "Pittsburgh Panthers",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 221,
-          "teamName": "Pittsburgh Panthers"
+          "teamName": "Pittsburgh Panthers",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 221,
-          "teamName": "Pittsburgh Panthers"
+          "teamName": "Pittsburgh Panthers",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 221,
-          "teamName": "Pittsburgh Panthers"
+          "teamName": "Pittsburgh Panthers",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 221,
-          "teamName": "Pittsburgh Panthers"
+          "teamName": "Pittsburgh Panthers",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 221,
-          "teamName": "Pittsburgh Panthers"
+          "teamName": "Pittsburgh Panthers",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Bad Boy Mowers Pinstripe Bowl",
+      "bowl_points": 2,
       "id": 401778317,
       "season": 2025,
       "week": 1,
@@ -7281,48 +7588,56 @@
           "user": "Sarah Moore",
           "teamId": 228,
           "teamName": "Clemson Tigers",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 228,
           "teamName": "Clemson Tigers",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 228,
           "teamName": "Clemson Tigers",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 213,
           "teamName": "Penn State Nittany Lions",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 213,
           "teamName": "Penn State Nittany Lions",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 228,
           "teamName": "Clemson Tigers",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 228,
           "teamName": "Clemson Tigers",
-          "double": false
+          "double": false,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Wasabi Fenway Bowl",
+      "bowl_points": 1,
       "id": 401778318,
       "season": 2025,
       "week": 1,
@@ -7561,42 +7876,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 349,
-          "teamName": "Army Black Knights"
+          "teamName": "Army Black Knights",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 349,
-          "teamName": "Army Black Knights"
+          "teamName": "Army Black Knights",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 349,
-          "teamName": "Army Black Knights"
+          "teamName": "Army Black Knights",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 349,
-          "teamName": "Army Black Knights"
+          "teamName": "Army Black Knights",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 349,
-          "teamName": "Army Black Knights"
+          "teamName": "Army Black Knights",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 349,
-          "teamName": "Army Black Knights"
+          "teamName": "Army Black Knights",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 349,
-          "teamName": "Army Black Knights"
+          "teamName": "Army Black Knights",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Pop-Tarts Bowl",
+      "bowl_points": 5,
       "id": 401778319,
       "season": 2025,
       "week": 1,
@@ -7630,6 +7953,8 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "Pop-Tarts Bowl",
+      "home_ranking": 12,
+      "away_ranking": 22,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
       "home_conference": "Big 12",
@@ -7836,48 +8161,56 @@
           "user": "Sarah Moore",
           "teamId": 252,
           "teamName": "12. BYU Cougars",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 252,
           "teamName": "12. BYU Cougars",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 252,
           "teamName": "12. BYU Cougars",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 252,
           "teamName": "12. BYU Cougars",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 252,
           "teamName": "12. BYU Cougars",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 252,
           "teamName": "12. BYU Cougars",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 252,
           "teamName": "12. BYU Cougars",
-          "double": true
+          "double": true,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Snoop Dogg Arizona Bowl",
+      "bowl_points": 1,
       "id": 401778320,
       "season": 2025,
       "week": 1,
@@ -8115,42 +8448,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 278,
-          "teamName": "Fresno State Bulldogs"
+          "teamName": "Fresno State Bulldogs",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 278,
-          "teamName": "Fresno State Bulldogs"
+          "teamName": "Fresno State Bulldogs",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 278,
-          "teamName": "Fresno State Bulldogs"
+          "teamName": "Fresno State Bulldogs",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": null,
-          "teamName": "Miami (OH) Redhawks"
+          "teamName": "Miami (OH) Redhawks",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": null,
-          "teamName": "Miami (OH) Redhawks"
+          "teamName": "Miami (OH) Redhawks",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 278,
-          "teamName": "Fresno State Bulldogs"
+          "teamName": "Fresno State Bulldogs",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 278,
-          "teamName": "Fresno State Bulldogs"
+          "teamName": "Fresno State Bulldogs",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Isleta New Mexico Bowl",
+      "bowl_points": 4,
       "id": 401778321,
       "season": 2025,
       "week": 1,
@@ -8184,6 +8525,7 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "Isleta New Mexico Bowl",
+      "away_ranking": 25,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
       "home_conference": "Mountain West",
@@ -8388,42 +8730,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 249,
-          "teamName": "25. North Texas Mean Green"
+          "teamName": "25. North Texas Mean Green",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 249,
-          "teamName": "25. North Texas Mean Green"
+          "teamName": "25. North Texas Mean Green",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 249,
-          "teamName": "25. North Texas Mean Green"
+          "teamName": "25. North Texas Mean Green",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 249,
-          "teamName": "25. North Texas Mean Green"
+          "teamName": "25. North Texas Mean Green",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 249,
-          "teamName": "25. North Texas Mean Green"
+          "teamName": "25. North Texas Mean Green",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 249,
-          "teamName": "25. North Texas Mean Green"
+          "teamName": "25. North Texas Mean Green",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 249,
-          "teamName": "25. North Texas Mean Green"
+          "teamName": "25. North Texas Mean Green",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "TaxSlayer Gator Bowl",
+      "bowl_points": 4,
       "id": 401778322,
       "season": 2025,
       "week": 1,
@@ -8457,6 +8807,7 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "TaxSlayer Gator Bowl",
+      "away_ranking": 19,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
       "home_conference": "SEC",
@@ -8661,42 +9012,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 142,
-          "teamName": "Missouri Tigers"
+          "teamName": "Missouri Tigers",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 142,
-          "teamName": "Missouri Tigers"
+          "teamName": "Missouri Tigers",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 142,
-          "teamName": "Missouri Tigers"
+          "teamName": "Missouri Tigers",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 142,
-          "teamName": "Missouri Tigers"
+          "teamName": "Missouri Tigers",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 142,
-          "teamName": "Missouri Tigers"
+          "teamName": "Missouri Tigers",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 142,
-          "teamName": "Missouri Tigers"
+          "teamName": "Missouri Tigers",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 142,
-          "teamName": "Missouri Tigers"
+          "teamName": "Missouri Tigers",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Kinder's Texas Bowl",
+      "bowl_points": 4,
       "id": 401778323,
       "season": 2025,
       "week": 1,
@@ -8730,6 +9089,7 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "Kinder's Texas Bowl",
+      "home_ranking": 21,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
       "home_conference": "Big 12",
@@ -8936,48 +9296,56 @@
           "user": "Sarah Moore",
           "teamId": 248,
           "teamName": "21. Houston Cougars",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 99,
           "teamName": "LSU Tigers",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 248,
           "teamName": "21. Houston Cougars",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 99,
           "teamName": "LSU Tigers",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 99,
           "teamName": "LSU Tigers",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 248,
           "teamName": "21. Houston Cougars",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 248,
           "teamName": "21. Houston Cougars",
-          "double": false
+          "double": false,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "JLab Birmingham Bowl",
+      "bowl_points": 1,
       "id": 401778324,
       "season": 2025,
       "week": 1,
@@ -9217,48 +9585,56 @@
           "user": "Sarah Moore",
           "teamId": 290,
           "teamName": "Georgia Southern Eagles",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": null,
           "teamName": "Appalachian State Mountaineers",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 290,
           "teamName": "Georgia Southern Eagles",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 290,
           "teamName": "Georgia Southern Eagles",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 290,
           "teamName": "Georgia Southern Eagles",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 290,
           "teamName": "Georgia Southern Eagles",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 290,
           "teamName": "Georgia Southern Eagles",
-          "double": true
+          "double": true,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Radiance Technologies Independence Bowl",
+      "bowl_points": 1,
       "id": 401778325,
       "season": 2025,
       "week": 1,
@@ -9496,42 +9872,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2348,
-          "teamName": "Louisiana Tech Bulldogs"
+          "teamName": "Louisiana Tech Bulldogs",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2348,
-          "teamName": "Louisiana Tech Bulldogs"
+          "teamName": "Louisiana Tech Bulldogs",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 2348,
-          "teamName": "Louisiana Tech Bulldogs"
+          "teamName": "Louisiana Tech Bulldogs",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 2348,
-          "teamName": "Louisiana Tech Bulldogs"
+          "teamName": "Louisiana Tech Bulldogs",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2348,
-          "teamName": "Louisiana Tech Bulldogs"
+          "teamName": "Louisiana Tech Bulldogs",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 2348,
-          "teamName": "Louisiana Tech Bulldogs"
+          "teamName": "Louisiana Tech Bulldogs",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2348,
-          "teamName": "Louisiana Tech Bulldogs"
+          "teamName": "Louisiana Tech Bulldogs",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Liberty Mutual Music City Bowl",
+      "bowl_points": 3,
       "id": 401778326,
       "season": 2025,
       "week": 1,
@@ -9769,42 +10153,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2633,
-          "teamName": "Tennessee Volunteers"
+          "teamName": "Tennessee Volunteers",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2633,
-          "teamName": "Tennessee Volunteers"
+          "teamName": "Tennessee Volunteers",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 2633,
-          "teamName": "Tennessee Volunteers"
+          "teamName": "Tennessee Volunteers",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 356,
-          "teamName": "Illinois Fighting Illini"
+          "teamName": "Illinois Fighting Illini",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2633,
-          "teamName": "Tennessee Volunteers"
+          "teamName": "Tennessee Volunteers",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 2633,
-          "teamName": "Tennessee Volunteers"
+          "teamName": "Tennessee Volunteers",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2633,
-          "teamName": "Tennessee Volunteers"
+          "teamName": "Tennessee Volunteers",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Valero Alamo Bowl",
+      "bowl_points": 4,
       "id": 401778327,
       "season": 2025,
       "week": 1,
@@ -9838,6 +10230,7 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "Valero Alamo Bowl",
+      "away_ranking": 16,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
       "home_conference": "Big 12",
@@ -10043,42 +10436,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2628,
-          "teamName": "TCU Horned Frogs"
+          "teamName": "TCU Horned Frogs",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 30,
-          "teamName": "16. USC Trojans"
+          "teamName": "16. USC Trojans",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 2628,
-          "teamName": "TCU Horned Frogs"
+          "teamName": "TCU Horned Frogs",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 30,
-          "teamName": "16. USC Trojans"
+          "teamName": "16. USC Trojans",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2628,
-          "teamName": "TCU Horned Frogs"
+          "teamName": "TCU Horned Frogs",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 30,
-          "teamName": "16. USC Trojans"
+          "teamName": "16. USC Trojans",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 30,
-          "teamName": "16. USC Trojans"
+          "teamName": "16. USC Trojans",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "ReliaQuest Bowl",
+      "bowl_points": 5,
       "id": 401778328,
       "season": 2025,
       "week": 1,
@@ -10112,6 +10513,8 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "ReliaQuest Bowl",
+      "home_ranking": 14,
+      "away_ranking": 23,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
       "home_conference": "SEC",
@@ -10295,42 +10698,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 238,
-          "teamName": "14. Vanderbilt Commodores"
+          "teamName": "14. Vanderbilt Commodores",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 238,
-          "teamName": "14. Vanderbilt Commodores"
+          "teamName": "14. Vanderbilt Commodores",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 238,
-          "teamName": "14. Vanderbilt Commodores"
+          "teamName": "14. Vanderbilt Commodores",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 238,
-          "teamName": "14. Vanderbilt Commodores"
+          "teamName": "14. Vanderbilt Commodores",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2294,
-          "teamName": "23. Iowa Hawkeyes"
+          "teamName": "23. Iowa Hawkeyes",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 238,
-          "teamName": "14. Vanderbilt Commodores"
+          "teamName": "14. Vanderbilt Commodores",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 238,
-          "teamName": "14. Vanderbilt Commodores"
+          "teamName": "14. Vanderbilt Commodores",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Tony the Tiger Sun Bowl",
+      "bowl_points": 2,
       "id": 401778329,
       "season": 2025,
       "week": 1,
@@ -10569,48 +10980,56 @@
           "user": "Sarah Moore",
           "teamId": 150,
           "teamName": "Duke Blue Devils",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 150,
           "teamName": "Duke Blue Devils",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 9,
           "teamName": "Arizona State Sun Devils",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 9,
           "teamName": "Arizona State Sun Devils",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 9,
           "teamName": "Arizona State Sun Devils",
-          "double": true
+          "double": true,
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 150,
           "teamName": "Duke Blue Devils",
-          "double": false
+          "double": false,
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 150,
           "teamName": "Duke Blue Devils",
-          "double": false
+          "double": false,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Cheez-It Citrus Bowl",
+      "bowl_points": 5,
       "id": 401778330,
       "season": 2025,
       "week": 1,
@@ -10644,6 +11063,8 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "Cheez-It Citrus Bowl",
+      "home_ranking": 13,
+      "away_ranking": 18,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "home_conference": "SEC",
@@ -10827,42 +11248,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 251,
-          "teamName": "13. Texas Longhorns"
+          "teamName": "13. Texas Longhorns",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 251,
-          "teamName": "13. Texas Longhorns"
+          "teamName": "13. Texas Longhorns",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 251,
-          "teamName": "13. Texas Longhorns"
+          "teamName": "13. Texas Longhorns",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 251,
-          "teamName": "13. Texas Longhorns"
+          "teamName": "13. Texas Longhorns",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 251,
-          "teamName": "13. Texas Longhorns"
+          "teamName": "13. Texas Longhorns",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 251,
-          "teamName": "13. Texas Longhorns"
+          "teamName": "13. Texas Longhorns",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 251,
-          "teamName": "13. Texas Longhorns"
+          "teamName": "13. Texas Longhorns",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "SRS Distribution Las Vegas Bowl",
+      "bowl_points": 4,
       "id": 401778331,
       "season": 2025,
       "week": 1,
@@ -10896,6 +11325,7 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "SRS Distribution Las Vegas Bowl",
+      "home_ranking": 15,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
       "home_conference": "Big 12",
@@ -11079,42 +11509,1067 @@
         {
           "user": "Sarah Moore",
           "teamId": 254,
-          "teamName": "15. Utah Utes"
+          "teamName": "15. Utah Utes",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 254,
-          "teamName": "15. Utah Utes"
+          "teamName": "15. Utah Utes",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 254,
-          "teamName": "15. Utah Utes"
+          "teamName": "15. Utah Utes",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 254,
-          "teamName": "15. Utah Utes"
+          "teamName": "15. Utah Utes",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 254,
-          "teamName": "15. Utah Utes"
+          "teamName": "15. Utah Utes",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 254,
-          "teamName": "15. Utah Utes"
+          "teamName": "15. Utah Utes",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 254,
-          "teamName": "15. Utah Utes"
+          "teamName": "15. Utah Utes",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "bowl_name": "College Football Playoff Quarterfinal at the Goodyear Cotton Bowl Classic",
+      "bowl_points": 5,
+      "id": 401769070,
+      "season": 2025,
+      "week": 1,
+      "seasonType": "postseason",
+      "startDate": "2026-01-01T00:30:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "neutralSite": true,
+      "conferenceGame": false,
+      "attendance": null,
+      "venueId": 3687,
+      "venue": "AT&T Stadium",
+      "homeId": 194,
+      "homeTeam": "Ohio State",
+      "homeClassification": "fbs",
+      "homeConference": "Big Ten",
+      "homePoints": null,
+      "homeLineScores": null,
+      "homePostgameWinProbability": null,
+      "homePregameElo": null,
+      "homePostgameElo": null,
+      "awayId": 2390,
+      "awayTeam": "Miami",
+      "awayClassification": "fbs",
+      "awayConference": "ACC",
+      "awayPoints": null,
+      "awayLineScores": null,
+      "awayPostgameWinProbability": null,
+      "awayPregameElo": null,
+      "awayPostgameElo": null,
+      "excitementIndex": null,
+      "highlights": "",
+      "notes": "College Football Playoff Quarterfinal at the Goodyear Cotton Bowl Classic",
+      "home_ranking": 2,
+      "away_ranking": 10,
+      "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+      "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+      "home_conference": "Big Ten",
+      "away_conference": "ACC",
+      "home_info": {
+        "id": 194,
+        "school": "Ohio State",
+        "mascot": "Buckeyes",
+        "abbreviation": "OSU",
+        "alternateNames": [
+          "OSU",
+          "Ohio State"
+        ],
+        "conference": "Big Ten",
+        "division": null,
+        "classification": "fbs",
+        "color": "#ce1141",
+        "alternateColor": "#505056",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/194.png"
+        ],
+        "twitter": "@OhioStateFB",
+        "location": {
+          "id": 3861,
+          "name": "Ohio Stadium",
+          "city": "Columbus",
+          "state": "OH",
+          "zip": "43210",
+          "countryCode": "US",
+          "timezone": "America/New_York",
+          "latitude": 40.0016447,
+          "longitude": -83.0197266,
+          "elevation": "216.6770325",
+          "capacity": 102780,
+          "constructionYear": 1922,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "away_info": {
+        "id": 2390,
+        "school": "Miami",
+        "mascot": "Hurricanes",
+        "abbreviation": "MIA",
+        "alternateNames": [
+          "Miami (FL)",
+          "MIA",
+          "Miami"
+        ],
+        "conference": "ACC",
+        "division": null,
+        "classification": "fbs",
+        "color": "#005030",
+        "alternateColor": "#f47321",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2390.png"
+        ],
+        "twitter": "@CanesFootball",
+        "location": {
+          "id": 3948,
+          "name": "Hard Rock Stadium",
+          "city": "Miami Gardens",
+          "state": "FL",
+          "zip": "33299",
+          "countryCode": "US",
+          "timezone": "America/New_York",
+          "latitude": 25.9579665,
+          "longitude": -80.2388604,
+          "elevation": "2.624486446",
+          "capacity": 64767,
+          "constructionYear": 1987,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "home_record": {
+        "year": 2025,
+        "teamId": 194,
+        "team": "Ohio State",
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "division": "",
+        "expectedWins": 11.880269717425108,
+        "total": {
+          "games": 13,
+          "wins": 12,
+          "losses": 1,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 10,
+          "wins": 9,
+          "losses": 1,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 7,
+          "wins": 7,
+          "losses": 0,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 5,
+          "wins": 5,
+          "losses": 0,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 13,
+          "wins": 12,
+          "losses": 1,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "away_record": {
+        "year": 2025,
+        "teamId": 2390,
+        "team": "Miami",
+        "classification": "fbs",
+        "conference": "ACC",
+        "division": "",
+        "expectedWins": 10.381020121276379,
+        "total": {
+          "games": 12,
+          "wins": 10,
+          "losses": 2,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 8,
+          "wins": 6,
+          "losses": 2,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 8,
+          "wins": 7,
+          "losses": 1,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 4,
+          "wins": 3,
+          "losses": 1,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 12,
+          "wins": 10,
+          "losses": 2,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "picks": [
+        {
+          "user": "Sarah Moore",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Otto's owner",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Kayla",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Tarin Clark",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Caleb Haldane",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Andrew Swiglo",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Joshua M. Trope",
+          "teamId": null,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "bowl_name": "College Football Playoff Quarterfinal at the Capital One Orange Bowl",
+      "bowl_points": 5,
+      "id": 401769071,
+      "season": 2025,
+      "week": 1,
+      "seasonType": "postseason",
+      "startDate": "2026-01-01T17:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "neutralSite": true,
+      "conferenceGame": false,
+      "attendance": null,
+      "venueId": 3948,
+      "venue": "Hard Rock Stadium",
+      "homeId": 2641,
+      "homeTeam": "Texas Tech",
+      "homeClassification": "fbs",
+      "homeConference": "Big 12",
+      "homePoints": null,
+      "homeLineScores": null,
+      "homePostgameWinProbability": null,
+      "homePregameElo": null,
+      "homePostgameElo": null,
+      "awayId": 2483,
+      "awayTeam": "Oregon",
+      "awayClassification": "fbs",
+      "awayConference": "Big Ten",
+      "awayPoints": null,
+      "awayLineScores": null,
+      "awayPostgameWinProbability": null,
+      "awayPregameElo": null,
+      "awayPostgameElo": null,
+      "excitementIndex": null,
+      "highlights": "",
+      "notes": "College Football Playoff Quarterfinal at the Capital One Orange Bowl",
+      "home_ranking": 4,
+      "away_ranking": 5,
+      "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+      "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+      "home_conference": "Big 12",
+      "away_conference": "Big Ten",
+      "home_info": {
+        "id": 2641,
+        "school": "Texas Tech",
+        "mascot": "Red Raiders",
+        "abbreviation": "TTU",
+        "alternateNames": [
+          "TTU",
+          "Texas Tech"
+        ],
+        "conference": "Big 12",
+        "division": null,
+        "classification": "fbs",
+        "color": "#CC0000",
+        "alternateColor": "#000000",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
+        ],
+        "twitter": "@TexasTechFB",
+        "location": {
+          "id": 3784,
+          "name": "Jones AT&T Stadium",
+          "city": "Lubbock",
+          "state": "TX",
+          "zip": "79409",
+          "countryCode": "US",
+          "timezone": "America/Chicago",
+          "latitude": 33.5910518,
+          "longitude": -101.8728824,
+          "elevation": "980.7632446",
+          "capacity": 60454,
+          "constructionYear": 1947,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "away_info": {
+        "id": 2483,
+        "school": "Oregon",
+        "mascot": "Ducks",
+        "abbreviation": "ORE",
+        "alternateNames": [
+          "ORE",
+          "Oregon"
+        ],
+        "conference": "Big Ten",
+        "division": null,
+        "classification": "fbs",
+        "color": "#007030",
+        "alternateColor": "#fee11a",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2483.png"
+        ],
+        "twitter": "@OregonFootball",
+        "location": {
+          "id": 3626,
+          "name": "Autzen Stadium",
+          "city": "Eugene",
+          "state": "OR",
+          "zip": "97401",
+          "countryCode": "US",
+          "timezone": "America/Los_Angeles",
+          "latitude": 44.0582712,
+          "longitude": -123.0684883,
+          "elevation": "127.4198303",
+          "capacity": 54000,
+          "constructionYear": 1967,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "home_record": {
+        "year": 2025,
+        "teamId": 2641,
+        "team": "Texas Tech",
+        "classification": "fbs",
+        "conference": "Big 12",
+        "division": "",
+        "expectedWins": 11.943419741466641,
+        "total": {
+          "games": 13,
+          "wins": 12,
+          "losses": 1,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 10,
+          "wins": 9,
+          "losses": 1,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 7,
+          "wins": 7,
+          "losses": 0,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 5,
+          "wins": 4,
+          "losses": 1,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 13,
+          "wins": 12,
+          "losses": 1,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "away_record": {
+        "year": 2025,
+        "teamId": 2483,
+        "team": "Oregon",
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "division": "",
+        "expectedWins": 10.702167473733425,
+        "total": {
+          "games": 12,
+          "wins": 11,
+          "losses": 1,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 9,
+          "wins": 8,
+          "losses": 1,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 7,
+          "wins": 6,
+          "losses": 1,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 5,
+          "wins": 5,
+          "losses": 0,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 12,
+          "wins": 11,
+          "losses": 1,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "picks": [
+        {
+          "user": "Sarah Moore",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Otto's owner",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Kayla",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Tarin Clark",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Caleb Haldane",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Andrew Swiglo",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Joshua M. Trope",
+          "teamId": null,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "bowl_name": "College Football Playoff Quarterfinal at the Rose Bowl Presented by Prudential",
+      "bowl_points": 5,
+      "id": 401769072,
+      "season": 2025,
+      "week": 1,
+      "seasonType": "postseason",
+      "startDate": "2026-01-01T21:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "neutralSite": true,
+      "conferenceGame": false,
+      "attendance": null,
+      "venueId": 1056,
+      "venue": "Rose Bowl",
+      "homeId": 84,
+      "homeTeam": "Indiana",
+      "homeClassification": "fbs",
+      "homeConference": "Big Ten",
+      "homePoints": null,
+      "homeLineScores": null,
+      "homePostgameWinProbability": null,
+      "homePregameElo": null,
+      "homePostgameElo": null,
+      "awayId": 333,
+      "awayTeam": "Alabama",
+      "awayClassification": "fbs",
+      "awayConference": "SEC",
+      "awayPoints": null,
+      "awayLineScores": null,
+      "awayPostgameWinProbability": null,
+      "awayPregameElo": null,
+      "awayPostgameElo": null,
+      "excitementIndex": null,
+      "highlights": "",
+      "notes": "College Football Playoff Quarterfinal at the Rose Bowl Presented by Prudential",
+      "home_ranking": 1,
+      "away_ranking": 9,
+      "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+      "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "home_conference": "Big Ten",
+      "away_conference": "SEC",
+      "home_info": {
+        "id": 84,
+        "school": "Indiana",
+        "mascot": "Hoosiers",
+        "abbreviation": "IU",
+        "alternateNames": [
+          "IU",
+          "Indiana"
+        ],
+        "conference": "Big Ten",
+        "division": null,
+        "classification": "fbs",
+        "color": "#990000",
+        "alternateColor": "#edebeb",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png"
+        ],
+        "twitter": "@IndianaFootball",
+        "location": {
+          "id": 3830,
+          "name": "Memorial Stadium (Bloomington, IN)",
+          "city": "Bloomington",
+          "state": "IN",
+          "zip": "47408",
+          "countryCode": "US",
+          "timezone": "America/Indiana/Indianapolis",
+          "latitude": 39.1808959,
+          "longitude": -86.5256217,
+          "elevation": "231.6500854",
+          "capacity": 52656,
+          "constructionYear": 1960,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "away_info": {
+        "id": 333,
+        "school": "Alabama",
+        "mascot": "Crimson Tide",
+        "abbreviation": "ALA",
+        "alternateNames": [
+          "ALA",
+          "Alabama"
+        ],
+        "conference": "SEC",
+        "division": null,
+        "classification": "fbs",
+        "color": "#9e1632",
+        "alternateColor": "#ffffff",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
+        ],
+        "twitter": "@AlabamaFTBL",
+        "location": {
+          "id": 3657,
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "state": "AL",
+          "zip": "35487",
+          "countryCode": "US",
+          "timezone": "America/Chicago",
+          "latitude": 33.2082752,
+          "longitude": -87.5503836,
+          "elevation": "70.05136108",
+          "capacity": 101821,
+          "constructionYear": 1929,
+          "grass": true,
+          "dome": false
+        }
+      },
+      "home_record": {
+        "year": 2025,
+        "teamId": 84,
+        "team": "Indiana",
+        "classification": "fbs",
+        "conference": "Big Ten",
+        "division": "",
+        "expectedWins": 10.600754231214523,
+        "total": {
+          "games": 13,
+          "wins": 13,
+          "losses": 0,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 10,
+          "wins": 10,
+          "losses": 0,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 7,
+          "wins": 7,
+          "losses": 0,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 5,
+          "wins": 5,
+          "losses": 0,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 13,
+          "wins": 13,
+          "losses": 0,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "away_record": {
+        "year": 2025,
+        "teamId": 333,
+        "team": "Alabama",
+        "classification": "fbs",
+        "conference": "SEC",
+        "division": "",
+        "expectedWins": 8.307722106575966,
+        "total": {
+          "games": 13,
+          "wins": 10,
+          "losses": 3,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 9,
+          "wins": 7,
+          "losses": 2,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 7,
+          "wins": 6,
+          "losses": 1,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 5,
+          "wins": 4,
+          "losses": 1,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 13,
+          "wins": 10,
+          "losses": 3,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "picks": [
+        {
+          "user": "Sarah Moore",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Otto's owner",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Kayla",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Tarin Clark",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Caleb Haldane",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Andrew Swiglo",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Joshua M. Trope",
+          "teamId": null,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "bowl_name": "College Football Playoff Quarterfinal at the Allstate Sugar Bowl",
+      "bowl_points": 5,
+      "id": 401769073,
+      "season": 2025,
+      "week": 1,
+      "seasonType": "postseason",
+      "startDate": "2026-01-02T01:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "neutralSite": true,
+      "conferenceGame": true,
+      "attendance": null,
+      "venueId": 3493,
+      "venue": "Caesars Superdome",
+      "homeId": 61,
+      "homeTeam": "Georgia",
+      "homeClassification": "fbs",
+      "homeConference": "SEC",
+      "homePoints": null,
+      "homeLineScores": null,
+      "homePostgameWinProbability": null,
+      "homePregameElo": null,
+      "homePostgameElo": null,
+      "awayId": 145,
+      "awayTeam": "Ole Miss",
+      "awayClassification": "fbs",
+      "awayConference": "SEC",
+      "awayPoints": null,
+      "awayLineScores": null,
+      "awayPostgameWinProbability": null,
+      "awayPregameElo": null,
+      "awayPostgameElo": null,
+      "excitementIndex": null,
+      "highlights": "",
+      "notes": "College Football Playoff Quarterfinal at the Allstate Sugar Bowl",
+      "home_ranking": 3,
+      "away_ranking": 6,
+      "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+      "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+      "home_conference": "SEC",
+      "away_conference": "SEC",
+      "home_info": {
+        "id": 61,
+        "school": "Georgia",
+        "mascot": "Bulldogs",
+        "abbreviation": "UGA",
+        "alternateNames": [
+          "UGA",
+          "Georgia"
+        ],
+        "conference": "SEC",
+        "division": null,
+        "classification": "fbs",
+        "color": "#ba0c2f",
+        "alternateColor": "#000000",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
+        ],
+        "twitter": "@GeorgiaFootball",
+        "location": {
+          "id": 3917,
+          "name": "Sanford Stadium",
+          "city": "Athens",
+          "state": "GA",
+          "zip": "30602",
+          "countryCode": "US",
+          "timezone": "America/New_York",
+          "latitude": 33.9498197,
+          "longitude": -83.3733813,
+          "elevation": "186.1120758",
+          "capacity": 92746,
+          "constructionYear": 1929,
+          "grass": true,
+          "dome": false
+        }
+      },
+      "away_info": {
+        "id": 145,
+        "school": "Ole Miss",
+        "mascot": "Rebels",
+        "abbreviation": "MISS",
+        "alternateNames": [
+          "MISS",
+          "Ole Miss"
+        ],
+        "conference": "SEC",
+        "division": null,
+        "classification": "fbs",
+        "color": "#13294b",
+        "alternateColor": "#c8102e",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png"
+        ],
+        "twitter": "@OleMissFB",
+        "location": {
+          "id": 3974,
+          "name": "Vaught-Hemingway Stadium",
+          "city": "Oxford",
+          "state": "MS",
+          "zip": "38677",
+          "countryCode": "US",
+          "timezone": "America/Chicago",
+          "latitude": 34.3619837,
+          "longitude": -89.5342076,
+          "elevation": "146.8517151",
+          "capacity": 64038,
+          "constructionYear": 1915,
+          "grass": true,
+          "dome": false
+        }
+      },
+      "home_record": {
+        "year": 2025,
+        "teamId": 61,
+        "team": "Georgia",
+        "classification": "fbs",
+        "conference": "SEC",
+        "division": "",
+        "expectedWins": 10.167213101871312,
+        "total": {
+          "games": 13,
+          "wins": 12,
+          "losses": 1,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 9,
+          "wins": 8,
+          "losses": 1,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 7,
+          "wins": 6,
+          "losses": 1,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 3,
+          "wins": 3,
+          "losses": 0,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 3,
+          "wins": 3,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 13,
+          "wins": 12,
+          "losses": 1,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "away_record": {
+        "year": 2025,
+        "teamId": 145,
+        "team": "Ole Miss",
+        "classification": "fbs",
+        "conference": "SEC",
+        "division": "",
+        "expectedWins": 9.774514213204384,
+        "total": {
+          "games": 12,
+          "wins": 11,
+          "losses": 1,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 8,
+          "wins": 7,
+          "losses": 1,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 8,
+          "wins": 8,
+          "losses": 0,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 4,
+          "wins": 3,
+          "losses": 1,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 12,
+          "wins": 11,
+          "losses": 1,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "picks": [
+        {
+          "user": "Sarah Moore",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Otto's owner",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Kayla",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Tarin Clark",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Caleb Haldane",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Andrew Swiglo",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Joshua M. Trope",
+          "teamId": null,
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Lockheed Martin Armed Forces Bowl",
+      "bowl_points": 1,
       "id": 401778332,
       "season": 2025,
       "week": 1,
@@ -11331,42 +12786,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 326,
-          "teamName": "Texas State Bobcats"
+          "teamName": "Texas State Bobcats",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 326,
-          "teamName": "Texas State Bobcats"
+          "teamName": "Texas State Bobcats",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 326,
-          "teamName": "Texas State Bobcats"
+          "teamName": "Texas State Bobcats",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 326,
-          "teamName": "Texas State Bobcats"
+          "teamName": "Texas State Bobcats",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 326,
-          "teamName": "Texas State Bobcats"
+          "teamName": "Texas State Bobcats",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 326,
-          "teamName": "Texas State Bobcats"
+          "teamName": "Texas State Bobcats",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 326,
-          "teamName": "Texas State Bobcats"
+          "teamName": "Texas State Bobcats",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "AutoZone Liberty Bowl",
+      "bowl_points": 2,
       "id": 401778333,
       "season": 2025,
       "week": 1,
@@ -11583,42 +13046,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 2426,
-          "teamName": "Navy Midshipmen"
+          "teamName": "Navy Midshipmen",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2426,
-          "teamName": "Navy Midshipmen"
+          "teamName": "Navy Midshipmen",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 2132,
-          "teamName": "Cincinnati Bearcats"
+          "teamName": "Cincinnati Bearcats",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 2132,
-          "teamName": "Cincinnati Bearcats"
+          "teamName": "Cincinnati Bearcats",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 2426,
-          "teamName": "Navy Midshipmen"
+          "teamName": "Navy Midshipmen",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 2132,
-          "teamName": "Cincinnati Bearcats"
+          "teamName": "Cincinnati Bearcats",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 2426,
-          "teamName": "Navy Midshipmen"
+          "teamName": "Navy Midshipmen",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Duke's Mayo Bowl",
+      "bowl_points": 3,
       "id": 401778334,
       "season": 2025,
       "week": 1,
@@ -11835,42 +13306,50 @@
         {
           "user": "Sarah Moore",
           "teamId": 344,
-          "teamName": "Mississippi State Bulldogs"
+          "teamName": "Mississippi State Bulldogs",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 344,
-          "teamName": "Mississippi State Bulldogs"
+          "teamName": "Mississippi State Bulldogs",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 344,
-          "teamName": "Mississippi State Bulldogs"
+          "teamName": "Mississippi State Bulldogs",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 344,
-          "teamName": "Mississippi State Bulldogs"
+          "teamName": "Mississippi State Bulldogs",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 344,
-          "teamName": "Mississippi State Bulldogs"
+          "teamName": "Mississippi State Bulldogs",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 344,
-          "teamName": "Mississippi State Bulldogs"
+          "teamName": "Mississippi State Bulldogs",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 344,
-          "teamName": "Mississippi State Bulldogs"
+          "teamName": "Mississippi State Bulldogs",
+          "points": 0
         }
       ]
     },
     {
       "bowl_name": "Trust & Will Holiday Bowl",
+      "bowl_points": 4,
       "id": 401831583,
       "season": 2025,
       "week": 1,
@@ -11904,6 +13383,7 @@
       "excitementIndex": null,
       "highlights": "",
       "notes": "Trust & Will Holiday Bowl",
+      "away_ranking": 17,
       "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
       "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
       "home_conference": "ACC",
@@ -12088,37 +13568,548 @@
         {
           "user": "Sarah Moore",
           "teamId": 12,
-          "teamName": "17. Arizona Wildcats"
+          "teamName": "17. Arizona Wildcats",
+          "points": 0
         },
         {
           "user": "Otto's owner",
           "teamId": 2567,
-          "teamName": "SMU Mustangs"
+          "teamName": "SMU Mustangs",
+          "points": 0
         },
         {
           "user": "Kayla",
           "teamId": 12,
-          "teamName": "17. Arizona Wildcats"
+          "teamName": "17. Arizona Wildcats",
+          "points": 0
         },
         {
           "user": "Tarin Clark",
           "teamId": 2567,
-          "teamName": "SMU Mustangs"
+          "teamName": "SMU Mustangs",
+          "points": 0
         },
         {
           "user": "Caleb Haldane",
           "teamId": 12,
-          "teamName": "17. Arizona Wildcats"
+          "teamName": "17. Arizona Wildcats",
+          "points": 0
         },
         {
           "user": "Andrew Swiglo",
           "teamId": 12,
-          "teamName": "17. Arizona Wildcats"
+          "teamName": "17. Arizona Wildcats",
+          "points": 0
         },
         {
           "user": "Joshua M. Trope",
           "teamId": 12,
-          "teamName": "17. Arizona Wildcats"
+          "teamName": "17. Arizona Wildcats",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "bowl_name": "Division III Championship",
+      "bowl_points": 1,
+      "id": 401843253,
+      "season": 2025,
+      "week": 1,
+      "seasonType": "postseason",
+      "startDate": "2026-01-05T01:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "neutralSite": true,
+      "conferenceGame": false,
+      "attendance": null,
+      "venueId": 3718,
+      "venue": "Tom Benson Hall of Fame Stadium",
+      "homeId": 3071,
+      "homeTeam": "North Central College",
+      "homeClassification": "iii",
+      "homeConference": "CCIW",
+      "homePoints": null,
+      "homeLineScores": null,
+      "homePostgameWinProbability": null,
+      "homePregameElo": null,
+      "homePostgameElo": null,
+      "awayId": 2723,
+      "awayTeam": "Wisconsin-River Falls",
+      "awayClassification": "iii",
+      "awayConference": "Wisconsin",
+      "awayPoints": null,
+      "awayLineScores": null,
+      "awayPostgameWinProbability": null,
+      "awayPregameElo": null,
+      "awayPostgameElo": null,
+      "excitementIndex": null,
+      "highlights": "",
+      "notes": "Division III Championship",
+      "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/3071.png",
+      "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2723.png",
+      "home_conference": "CCIW",
+      "away_conference": "Wisconsin",
+      "home_info": {
+        "id": 3071,
+        "school": "North Central College",
+        "mascot": "Cardinals",
+        "abbreviation": "NCC",
+        "alternateNames": [
+          "NCC",
+          "N Central"
+        ],
+        "conference": "CCIW",
+        "division": null,
+        "classification": "iii",
+        "color": "#null",
+        "alternateColor": "#null",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/3071.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/3071.png"
+        ],
+        "twitter": null,
+        "location": {
+          "id": 980,
+          "name": "Benedetti-Wehrli Stadium",
+          "city": "Naperville",
+          "state": "IL",
+          "zip": "60540",
+          "countryCode": "US",
+          "timezone": null,
+          "latitude": 41.7728699,
+          "longitude": -88.1479278,
+          "elevation": null,
+          "capacity": 4839,
+          "constructionYear": null,
+          "grass": null,
+          "dome": false
+        }
+      },
+      "away_info": {
+        "id": 2723,
+        "school": "Wisconsin-River Falls",
+        "mascot": "Falcons",
+        "abbreviation": "WIRF",
+        "alternateNames": [
+          "WIRF",
+          "Wis RF"
+        ],
+        "conference": "Wisconsin",
+        "division": null,
+        "classification": "iii",
+        "color": "#null",
+        "alternateColor": "#null",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/2723.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2723.png"
+        ],
+        "twitter": null,
+        "location": {
+          "id": 5901,
+          "name": "David Smith Stadium at Ramer Field",
+          "city": "River Falls",
+          "state": "WI",
+          "zip": "54022",
+          "countryCode": "US",
+          "timezone": null,
+          "latitude": 44.8595111,
+          "longitude": -92.6265897,
+          "elevation": null,
+          "capacity": 2300,
+          "constructionYear": null,
+          "grass": null,
+          "dome": false
+        }
+      },
+      "home_record": {
+        "year": 2025,
+        "teamId": 3071,
+        "team": "North Central College",
+        "classification": "iii",
+        "conference": "CCIW",
+        "division": "",
+        "expectedWins": null,
+        "total": {
+          "games": 13,
+          "wins": 12,
+          "losses": 0,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 9,
+          "wins": 9,
+          "losses": 0,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 9,
+          "wins": 8,
+          "losses": 0,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 4,
+          "wins": 4,
+          "losses": 0,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 13,
+          "wins": 12,
+          "losses": 0,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "away_record": {
+        "year": 2025,
+        "teamId": 2723,
+        "team": "Wisconsin-River Falls",
+        "classification": "iii",
+        "conference": "Wisconsin",
+        "division": "",
+        "expectedWins": null,
+        "total": {
+          "games": 13,
+          "wins": 11,
+          "losses": 1,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 7,
+          "wins": 6,
+          "losses": 1,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 8,
+          "wins": 7,
+          "losses": 1,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 5,
+          "wins": 4,
+          "losses": 0,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 13,
+          "wins": 11,
+          "losses": 1,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "picks": [
+        {
+          "user": "Sarah Moore",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Otto's owner",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Kayla",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Tarin Clark",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Caleb Haldane",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Andrew Swiglo",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Joshua M. Trope",
+          "teamId": null,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "bowl_name": "FCS Championship",
+      "bowl_points": 1,
+      "id": 401833680,
+      "season": 2025,
+      "week": 1,
+      "seasonType": "postseason",
+      "startDate": "2026-01-06T00:30:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "neutralSite": true,
+      "conferenceGame": false,
+      "attendance": null,
+      "venueId": 3973,
+      "venue": "FirstBank Stadium",
+      "homeId": 147,
+      "homeTeam": "Montana State",
+      "homeClassification": "fcs",
+      "homeConference": "Big Sky",
+      "homePoints": null,
+      "homeLineScores": null,
+      "homePostgameWinProbability": null,
+      "homePregameElo": null,
+      "homePostgameElo": null,
+      "awayId": 2287,
+      "awayTeam": "Illinois State",
+      "awayClassification": "fcs",
+      "awayConference": "MVFC",
+      "awayPoints": null,
+      "awayLineScores": null,
+      "awayPostgameWinProbability": null,
+      "awayPregameElo": null,
+      "awayPostgameElo": null,
+      "excitementIndex": null,
+      "highlights": "",
+      "notes": "FCS Championship",
+      "home_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+      "away_logo": "http://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
+      "home_conference": "Big Sky",
+      "away_conference": "MVFC",
+      "home_info": {
+        "id": 147,
+        "school": "Montana State",
+        "mascot": "Bobcats",
+        "abbreviation": "MTST",
+        "alternateNames": [
+          "MTST",
+          "Montana St"
+        ],
+        "conference": "Big Sky",
+        "division": null,
+        "classification": "fcs",
+        "color": "#00205c",
+        "alternateColor": "#bc955c",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/147.png"
+        ],
+        "twitter": "@MSUBobcatsFB",
+        "location": {
+          "id": 3643,
+          "name": "Bobcat Stadium",
+          "city": "Bozeman",
+          "state": "MT",
+          "zip": "59718",
+          "countryCode": "US",
+          "timezone": "America/Denver",
+          "latitude": 45.659048,
+          "longitude": -111.049547,
+          "elevation": "1507.508667",
+          "capacity": 17000,
+          "constructionYear": 1973,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "away_info": {
+        "id": 2287,
+        "school": "Illinois State",
+        "mascot": "Redbirds",
+        "abbreviation": "ILST",
+        "alternateNames": [
+          "ILST",
+          "Illinois St"
+        ],
+        "conference": "MVFC",
+        "division": null,
+        "classification": "fcs",
+        "color": "#CE1126",
+        "alternateColor": "#ffe716",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2287.png"
+        ],
+        "twitter": "@RedbirdFB",
+        "location": {
+          "id": 3744,
+          "name": "Hancock Stadium",
+          "city": "Normal",
+          "state": "IL",
+          "zip": "61761",
+          "countryCode": "US",
+          "timezone": "America/Chicago",
+          "latitude": 40.5125091,
+          "longitude": -88.9967177,
+          "elevation": "242.8722687",
+          "capacity": 15000,
+          "constructionYear": 1963,
+          "grass": false,
+          "dome": false
+        }
+      },
+      "home_record": {
+        "year": 2025,
+        "teamId": 147,
+        "team": "Montana State",
+        "classification": "fcs",
+        "conference": "Big Sky",
+        "division": "",
+        "expectedWins": 11.535665404051542,
+        "total": {
+          "games": 14,
+          "wins": 12,
+          "losses": 2,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 8,
+          "wins": 8,
+          "losses": 0,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 9,
+          "wins": 8,
+          "losses": 1,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 5,
+          "wins": 4,
+          "losses": 1,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 14,
+          "wins": 12,
+          "losses": 2,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "away_record": {
+        "year": 2025,
+        "teamId": 2287,
+        "team": "Illinois State",
+        "classification": "fcs",
+        "conference": "MVFC",
+        "division": "",
+        "expectedWins": 9.100224129855633,
+        "total": {
+          "games": 15,
+          "wins": 11,
+          "losses": 4,
+          "ties": 0
+        },
+        "conferenceGames": {
+          "games": 9,
+          "wins": 6,
+          "losses": 3,
+          "ties": 0
+        },
+        "homeGames": {
+          "games": 6,
+          "wins": 3,
+          "losses": 3,
+          "ties": 0
+        },
+        "awayGames": {
+          "games": 9,
+          "wins": 8,
+          "losses": 1,
+          "ties": 0
+        },
+        "neutralSiteGames": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        },
+        "regularSeason": {
+          "games": 15,
+          "wins": 11,
+          "losses": 4,
+          "ties": 0
+        },
+        "postseason": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "ties": 0
+        }
+      },
+      "picks": [
+        {
+          "user": "Sarah Moore",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Otto's owner",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Kayla",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Tarin Clark",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Caleb Haldane",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Andrew Swiglo",
+          "teamId": null,
+          "points": 0
+        },
+        {
+          "user": "Joshua M. Trope",
+          "teamId": null,
+          "points": 0
         }
       ]
     }

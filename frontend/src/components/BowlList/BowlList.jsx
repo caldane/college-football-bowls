@@ -13,7 +13,7 @@ const BowlList = ({ bowls }) => {
                 <h1 id="bowl-list-heading">2025-26 College Football Bowl Games</h1>
             </header>
 
-            <ol className="bowl-games-list">
+            <ol className={style["bowl-games-list"]}>
                 {bowls?.map((bowl) => {
                     if (bowl.picks.every((pick) => pick.teamId === null)) {
                         return null;
@@ -40,7 +40,7 @@ const BowlList = ({ bowls }) => {
                         <li key={bowl.id} className="bowl-item">
                             <article className="bowl-card">
                                 <header>
-                                    <h2 className="bowl-name">{bowl.notes}</h2>
+                                    <h2 className="bowl-name">{bowl.notes}</h2> <span> ({bowl.bowl_points} points)</span>
                                 </header>
 
                                 <dl className={style["bowl-details"]}>
@@ -88,13 +88,13 @@ const BowlList = ({ bowls }) => {
                                             </dd>
                                             <dd>
                                                 <strong>
-                                                    {bowl.awayTeam} {bowl.awayPoints ? `: ${bowl.awayPoints}` : ""}
+                                                    {bowl.away_ranking ? `${bowl.away_ranking}. ` : ""} {bowl.awayTeam} {bowl.awayPoints ? `: ${bowl.awayPoints}` : ""}
                                                 </strong>
                                             </dd>
                                             <dd></dd>{" "}
                                             <dd>
                                                 <strong>
-                                                    {bowl.homeTeam} {bowl.homePoints ? `: ${bowl.homePoints}` : ""}
+                                                    {bowl.home_ranking ? `${bowl.home_ranking}. ` : ""} {bowl.homeTeam} {bowl.homePoints ? `: ${bowl.homePoints}` : ""}
                                                 </strong>
                                             </dd>
                                             <dd>

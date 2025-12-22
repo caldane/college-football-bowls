@@ -10,7 +10,7 @@ services:
       - AUTH_TOKEN2=8RikJHc4wrfH22xNQ/ZtFAN0HgMmaK9SeEYm2kz3EizxQExcOru7wXcT1Ycj6WL9
       - CACHE_AGE_LIMIT_MINUTES=30
     healthcheck:
-      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:5050/health"]
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:5050/api/health"]
       interval: 30s
       timeout: 10s
       retries: 10

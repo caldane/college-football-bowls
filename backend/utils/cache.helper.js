@@ -47,8 +47,12 @@ export async function saveCacheToFile(cacheKey, data) {
     const tempFile = `${filePath}.tmp`;
     fs.writeFileSync(tempFile, JSON.stringify(cacheObj, null, 2));
     fs.renameSync(tempFile, filePath); // Atomic on most systems
-    console.log(`Cache saved to file: ${Object.keys(data).length} games`);
+    console.log(`Cache saved to file: ${Object.keys(data).length} ${cacheKey}`);
+
+    return cacheObj.date;
   } catch (err) {
     console.error('Failed to save cache:', err.message);
   }
+
+  return null;
 }
