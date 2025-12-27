@@ -1,7 +1,7 @@
 ﻿import React, { useEffect, useState } from "react";
-import BowlList from "./components/BowlList/BowlList";
 import UserList from "./components/UserList/UserList";
 import CacheDate from "./components/CacheDate/CacheDate";
+import Bowls from "./components/Bowls/Bowls.jsx";
 
 function App() {
     const [bowls, setBowls] = useState([]);
@@ -30,7 +30,7 @@ function App() {
             </header>
             <main>
                 <UserList users={bowls.users} />
-                <BowlList bowls={bowls.games} />
+                <Bowls bowls={bowls.games} />
             </main>
         </>
     );
